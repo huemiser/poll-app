@@ -1,0 +1,24 @@
+a {
+    font-family: 'Ubuntu', serif;
+    color: #ff6300;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: italic;
+    color: purple;
+}
+
+body {
+    background: url("images/meow.gif") no-repeat center;
+}
+
+ul {
+    padding-left: 300px;
+    padding-top: 80px;
+    font-size: 22px;
+}
+
+body {
+    background-color: yellow;
+}
